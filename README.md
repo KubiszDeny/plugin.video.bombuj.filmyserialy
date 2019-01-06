@@ -1,4 +1,6 @@
-# plugin.video.bombuj.filmyserialy
+
+![Bombuj](https://i.ibb.co/gwJdk7n/icon.png)
+
 Kodi Video Plugin pro CZ/SK Komunitu. 
 Plugin slouží pro přehrávání Videa z Bombuj.eu, ze zdroje openload.
 
