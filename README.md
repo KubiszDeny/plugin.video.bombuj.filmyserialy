@@ -11,7 +11,7 @@ Vyžaduje Plugin resolveurl.
 
 [Ulož.to Resolveurl-Alternativní](https://uloz.to/!HGs8JWFmzJ0M/script-module-resolveurl-master-zip)
 
-Poté stačí stáhnout .zip z githubu a naistalovat.
+Poté stačí stáhnout .zip z githubu a nainstalovat.
 ## Openload
 Pokud po vybrání videa vás Kodi vyzve k openload pair. Jděte na stránku: [olpair.com](https://olpair.com/), potvďte že nejste robot a klikněte na Pair.
 
