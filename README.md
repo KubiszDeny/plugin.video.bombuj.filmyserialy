@@ -1,4 +1,4 @@
-
+# Bombuj.eu Kodi Video Plugin
 ![Bombuj](https://i.ibb.co/gwJdk7n/icon.png)
 
 Kodi Video Plugin pro CZ/SK Komunitu. 
