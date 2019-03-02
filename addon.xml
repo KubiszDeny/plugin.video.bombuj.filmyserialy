@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.bombuj.filmyserialy"
-version="1.2.0"
+version="1.3.2"
 name="Bombuj.eu"
 provider-name="KubiszDeny">
 <requires>
@@ -31,11 +31,16 @@ provider-name="KubiszDeny">
   04.01.19> Plugin upraven a přidán obsah.
   05.01.19> Dodána databáze od Sarose a přidány seriály.
   06.01.19> Bombuj.eu doplněk přidán na Github a přidány další seriály.
+  02.03.19> Update ver 1.3.2
+  Donate: 1766873010/3030 (Airbank)
   Forum: https://www.xbmc-kodi.cz/prispevek-bombuj-eu-doplnek
   Github: https://github.com/KubiszDeny/plugin.video.bombuj.filmyserialy
   Kontakt: m.denykubisz@gmail.com 
   ----------------------------------------------------------------------
-  Odkaz není zločin.
+  Tento doplněk je pouze odkaz na URL adresy providerů (Openload, Streamango..)
+  Provozovatel tohoto doplňku nenese odpovednost za porušení autorského práva, videa se nenachází na serveru poskytovatele a nejsou ani obsaženy v tomto doplňku.
+  ----------------------------------------------------------------------
+  ODKAZ NENÍ ZLOČIN!
 </news>
 </extension>
 </addon>
